@@ -9,10 +9,12 @@ A good reference is [Install Homebrew](https://mac.install.guide/homebrew/3) by 
 Git is typically installed as part of Xcode Command Line Tool, but installing through Homebrew often provides a more up-to-date version of Git compared to Xcode Command Line Tools. 
 You can install Git by running `brew install git`.
 
-#### Configure Git
+### Configure Git
 
 ### Install NVM using Homebrew
 
 ### Install Node JS using NVM
 
-### 
+### Open VS Code From the Terminal
+
+The guide is on [freeCodeCamp](https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/)
