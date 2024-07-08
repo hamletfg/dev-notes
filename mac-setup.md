@@ -7,11 +7,27 @@ A good reference is [Install Homebrew](https://mac.install.guide/homebrew/3) by 
 
 ### Install Git using Homebrew
 Git is typically installed as part of Xcode Command Line Tool, but installing through Homebrew often provides a more up-to-date version of Git compared to Xcode Command Line Tools. 
+
 You can install Git by running `brew install git`.
 
 ### Configure Git
 
 ### Install NVM using Homebrew
+
+1. Install `nvm` using Homebrew:
+```
+brew install nvm
+```
+2. Create the necessary directories for nvm:
+```
+mkdir ~/.nvm
+```
+3. Update your shell configuration file (.zshrc for Zsh, which is the default shell on macOS):
+```
+echo 'export NVM_DIR="$HOME/.nvm"' >> ~/.zshrc
+echo '[ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"' >> ~/.zshrc
+echo '[ -s "/opt/homebrew/opt/nvm/etc/bash_completion" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion"' >> ~/.zshrc
+```
 
 ### Install Node JS using NVM
 
