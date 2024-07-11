@@ -12,7 +12,7 @@ You can install Git by running `brew install git`.
 
 ### Configure Git
 
-### Install NVM using Homebrew
+### Install nvm using Homebrew
 
 1. Install `nvm` using Homebrew:
 ```
@@ -28,8 +28,30 @@ echo 'export NVM_DIR="$HOME/.nvm"' >> ~/.zshrc
 echo '[ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"' >> ~/.zshrc
 echo '[ -s "/opt/homebrew/opt/nvm/etc/bash_completion" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion"' >> ~/.zshrc
 ```
+4. Source your shell configuration file to apply the changes:
+```
+source ~/.zshrc
+```
+5. Verify the installation by checking the nvm version:
+```
+nvm --version
+```
 
-### Install Node JS using NVM
+### Install npm using nvm
+
+1. Install the desired version of Node.js using nvm. For example, to install the latest LTS version:
+```
+nvm install --lts
+```
+2. Verify the installation of Node.js and npm:
+```
+node -v
+npm -v
+```
+3. Use a specific version of Node.js if you have multiple versions installed. For example, to use the latest LTS version:
+```
+nvm use --lts
+```
 
 ### Open VS Code From the Terminal
 
