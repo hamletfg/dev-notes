@@ -1,4 +1,4 @@
-###AI Prompts for Devs
+## AI Prompts for Devs
 
 After experimenting with different prompts, I found the perfect way to continue my conversations in a new chat with all of the necessary context required:
 
