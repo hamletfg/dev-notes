@@ -6,6 +6,9 @@ After experimenting with different prompts, I found the perfect way to continue 
 ```
 This chat is getting lengthy. Please provide a concise prompt I can use in a new chat that captures all the essential context from our current discussion. Include any key technical details, decisions made, and next steps we were about to discuss.
 ```
+```
+do you mind looking at the repomix-output.md file that I shared and have that as a reference of my current code to avoid confusion?
+```
 
 ### Backend Instructor
 
