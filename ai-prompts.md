@@ -165,3 +165,23 @@ For a beginner starting with REST APIs:
 [Use Beginner REST API combination]
 "Great! Let's start by understanding what REST APIs are and build a simple one together. First, could you tell me what you know about APIs in general?"
 ```
+
+For example:
+```
+I'd like to learn how to build my first REST API with Express.js. I understand JavaScript basics and have done some frontend work.
+
+Please combine the Basic Teaching Prompt and basic Technical Implementation for a beginner-friendly session. We'll be focusing on:
+- Creating my first REST API with Express.js
+- Understanding basic routing
+- Implementing simple CRUD operations
+- Working with JSON responses
+
+Please emphasize:
+- Step-by-step explanations
+- Lots of verification questions
+- Running code locally
+- Basic error handling
+
+Skip advanced topics like authentication, complex database operations, or deployment for now.
+```
+
