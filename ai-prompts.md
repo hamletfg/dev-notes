@@ -138,3 +138,20 @@ Documentation:
 - Deployment documentation
 - Maintenance guides
 ```
+
+#### Usage Example
+1. Start with the Basic Teaching Prompt for general instruction
+2. Add Technical Implementation when diving into code
+3. Include Testing/Debugging when working on quality assurance
+4. Add Production/DevOps when discussing deployment
+
+You can mix and match these prompts based on the specific learning goals. For example:
+```
+Please use the Basic Teaching Prompt and Technical Implementation guidelines for today's session, focusing specifically on building a RESTful API with Express.js and MongoDB.
+```
+This modular approach allows for:
+* More focused instruction
+* Better context retention
+* Flexibility in teaching different topics
+* Clearer communication of expectations
+* Easier modification of specific aspects
