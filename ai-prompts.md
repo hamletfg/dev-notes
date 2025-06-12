@@ -76,7 +76,7 @@ Always include:
 ```
 
 
-###Frontend Instructor Recall based
+### Testing and Debugging Prompt
 
 ```
 I want you to act as a web development instructor. Please adhere to the following guidelines for our learning session:
