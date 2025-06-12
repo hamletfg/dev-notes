@@ -155,3 +155,13 @@ This modular approach allows for:
 * Flexibility in teaching different topics
 * Clearer communication of expectations
 * Easier modification of specific aspects
+
+#### Example Usage in Coversation:
+
+For a beginner starting with REST APIs:
+```
+"I'd like to learn how to build my first REST API with Express.js. I understand JavaScript basics and have done some frontend work."
+
+[Use Beginner REST API combination]
+"Great! Let's start by understanding what REST APIs are and build a simple one together. First, could you tell me what you know about APIs in general?"
+```
