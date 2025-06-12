@@ -103,3 +103,38 @@ Quality Assurance:
 - Performance testing
 - API endpoint validation
 ```
+
+
+### Production and DevOps Prompt
+
+```
+Please incorporate these production and deployment considerations:
+
+Development Workflow:
+- Git version control best practices
+- Branch management strategies
+- CI/CD pipeline basics
+- Environment management
+- Code review practices
+
+Deployment Focus:
+- Environment setup (dev/staging/prod)
+- Docker containerization basics
+- Environment variables management
+- Server monitoring setup
+- Production security measures
+
+Performance:
+- Caching strategies (Redis)
+- Database optimization
+- Load balancing concepts
+- Performance monitoring
+- Resource management
+
+Documentation:
+- API documentation (Swagger/OpenAPI)
+- Code documentation standards
+- README.md structure
+- Deployment documentation
+- Maintenance guides
+```
