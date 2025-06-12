@@ -139,7 +139,7 @@ Documentation:
 - Maintenance guides
 ```
 
-#### Usage Example
+### Usage Example
 1. Start with the Basic Teaching Prompt for general instruction
 2. Add Technical Implementation when diving into code
 3. Include Testing/Debugging when working on quality assurance
