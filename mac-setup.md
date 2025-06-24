@@ -12,6 +12,8 @@ You can install Git by running `brew install git`.
 
 ### Configure Git
 
+Follow [Odin Project Guide](https://www.theodinproject.com/lessons/foundations-setting-up-git) for Git Setup Guide
+
 ### Install nvm using Homebrew
 
 1. Install `nvm` using Homebrew:
